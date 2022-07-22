@@ -1,10 +1,10 @@
 {
   "name": "kutuphanedeneme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react kutuphane denemem",
-  "author": "volkan",
+  "author": "dogruvolkan",
   "license": "MIT",
-  "repository": "volkan/kutuphanedeneme",
+  "repository": "dogruvolkan/kutuphanedeneme",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
