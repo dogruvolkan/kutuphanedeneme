@@ -1,12 +1,12 @@
 import React from 'react'
 
-import { ExampleComponent, Button } from 'kutuphanedeneme'
+import { Paragraph, Button } from 'kutuphanedeneme'
 import 'kutuphanedeneme/dist/index.css'
 
 const App = () => {
   return (
     <>
-      <ExampleComponent text='Merhaba' />
+      <Paragraph text='paket deneme kontol deneme-kontrol' />
       <Button text='tıkla' />
     </>
   )
